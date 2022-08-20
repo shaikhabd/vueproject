@@ -1,0 +1,6 @@
+{
+  "appId": "com.myapptsen.id",
+  "appName": "myapp",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
